@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sagar shinde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India. I love creating websites and applications that work seamlessly from the front-end to the back-end.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shindesagar&label=Profile%20views&color=0e75b6&style=flat" alt="shindesagar" /> </p>
 
